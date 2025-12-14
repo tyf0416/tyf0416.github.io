@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: /
 
 profile:
   align: right
@@ -40,12 +39,15 @@ My research focuses on **artificial intelligence for complex engineering systems
 
 ### Research Interests
 
-  - Artificial Intelligence in Sustainable Lifecycle Systems  
-  - Transfer/Deep/Reinforcement Learning, Foundation Models  
-  - Low-cost System Modeling, Design, and Optimization  
-  - Digital Twin for Intelligent Systems  
-  - Green Transportation  
-  - Aerospace System Design  
-  - Sustainable Manufacturing  
+  - **Artificial Intelligence**
+    - Transfer/Deep/Reinforcement Learning
+    - Foundation Models
+
+  - **Engineering System Applications**
+    - Low-cost System Modeling, Design, and Optimization  
+    - Digital Twin for Intelligent Systems  
+    - Green Transportation  
+    - Aerospace System Design  
+    - Sustainable Manufacturing  
 
 ---
