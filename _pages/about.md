@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Currently, I am a Postdoctoral Research Fellow in the School of Mechatronic Systems Engineering at Simon Fraser University, where I also completed my PhD under the supervision of [Prof. Gary Wamg](https://www.sfu.ca/~gwa5/index.html). I received my Bachelor’s and Master’s degrees from the School of Aerospace at Beijing Institute of Technology, supervised by [Prof. Teng Long](https://scholar.google.com/citations?user=uvgJaUoAAAAJ&hl=en).
+Currently, I am a Postdoctoral Research Fellow in the School of Mechatronic Systems Engineering at Simon Fraser University, where I also completed my PhD under the supervision of [Prof. Gary Wang](https://www.sfu.ca/~gwa5/index.html). I received my Bachelor’s and Master’s degrees from the School of Aerospace at Beijing Institute of Technology, supervised by [Prof. Teng Long](https://scholar.google.com/citations?user=uvgJaUoAAAAJ&hl=en).
 
 My research focuses on **artificial intelligence for complex engineering systems**, aiming to improve their performance, sustainability, and robustness. The goal is to develop generalizable, computationally efficient, and physics-informed methods for:
 
