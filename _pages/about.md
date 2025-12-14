@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Yifan Tang
+title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
