@@ -29,12 +29,12 @@ github_username: tyf0416 # your GitHub user name
 linkedin_username: yifan-tang-943716152 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0003-3789-1639 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Yifan-Tang-4 # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: KLQhwQsAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
