@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-12-15'
+  last_updated: '2025-12-31'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
-    citations: 6
+    citations: 7
     title: Real-time 2D temperature field prediction in metal additive manufacturing using physics-informed neural networks
     year: '2024'
   KLQhwQsAAAAJ:0EnyYjriUFMC:
@@ -14,7 +14,7 @@ papers:
     title: RePaint-Enhanced Conditional Diffusion Model for Generating Designs Under Performance Constraints
     year: '2025'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
-    citations: 85
+    citations: 86
     title: Review of transfer learning in modeling additive manufacturing processes
     year: '2022'
   KLQhwQsAAAAJ:5nxA0vEk-isC:
@@ -74,7 +74,7 @@ papers:
     title: Filter-based sequential radial basis function method for spacecraft multidisciplinary design optimization
     year: '2019'
   KLQhwQsAAAAJ:aqlVkmm33-oC:
-    citations: 8
+    citations: 9
     title: Modeling and optimization of height-related geometrical parameters for thin wall structures manufactured by metal additive manufacturing
     year: '2023'
   KLQhwQsAAAAJ:blknAaTinKkC:
@@ -82,11 +82,15 @@ papers:
     title: "\u57FA\u4E8E Kriging \u4EE3\u7406\u6A21\u578B\u7684\u7EA6\u675F\u5DEE\u5206\u8FDB\u5316\u7B97\u6CD5"
     year: '2021'
   KLQhwQsAAAAJ:dhFuZR0502QC:
-    citations: 5
+    citations: 6
     title: Online thermal field prediction for metal additive manufacturing of thin walls
     year: '2023'
+  KLQhwQsAAAAJ:fPk4N6BV_jEC:
+    citations: 5
+    title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 61: 103357'
+    year: '2022'
   KLQhwQsAAAAJ:g5m5HwL7SMYC:
-    citations: 6
+    citations: 9
     title: Two-dimensional temperature field prediction with in-situ data in metal additive manufacturing using physics-informed neural networks
     year: '2025'
   KLQhwQsAAAAJ:hC7cP41nSMkC:
@@ -94,7 +98,7 @@ papers:
     title: Online Two-stage Thermal History Prediction Method for Metal Additive Manufacturing of Thin Walls
     year: '2023'
   KLQhwQsAAAAJ:hFOr9nPyWt4C:
-    citations: 22
+    citations: 23
     title: Selecting subsets of source data for transfer learning with applications in metal additive manufacturing
     year: '2024'
   KLQhwQsAAAAJ:j3f4tGmQtD8C:
@@ -106,7 +110,7 @@ papers:
     title: Iterative uncertainty calibration for modeling metal additive manufacturing processes using statistical moment-based metric
     year: '2023'
   KLQhwQsAAAAJ:ldfaerwXgEUC:
-    citations: 0
+    citations: 1
     title: Capturing Lifecycle System Degradation in Digital Twin Model Updating
     year: '2025'
   KLQhwQsAAAAJ:mB3voiENLucC:
@@ -126,7 +130,7 @@ papers:
     title: Comparison of Transfer Learning based Additive Manufacturing Models via A Case Study
     year: '2023'
   KLQhwQsAAAAJ:r0BpntZqJG4C:
-    citations: 3
+    citations: 4
     title: A systematic online update method for reduced-order-model-based digital twin
     year: '2024'
   KLQhwQsAAAAJ:rO6llkc54NcC:
