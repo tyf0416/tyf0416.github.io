@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-01-02'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -123,8 +123,8 @@ papers:
     year: '2025'
   KLQhwQsAAAAJ:pqnbT2bcN3wC:
     citations: 5
-    title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-property modeling scheme
-    year: '2023'
+    title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-quality modeling scheme
+    year: '2024'
   KLQhwQsAAAAJ:qxL8FJ1GzNcC:
     citations: 3
     title: Comparison of Transfer Learning based Additive Manufacturing Models via A Case Study
