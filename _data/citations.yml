@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-01-05'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -34,7 +34,7 @@ papers:
     title: Filter-based adaptive Kriging method for black-box optimization problems with expensive objective and constraints
     year: '2019'
   KLQhwQsAAAAJ:RYcK_YlVTxYC:
-    citations: 1
+    citations: 2
     title: Low-Cost Melt Pool Temperature Prediction Using Visible Light Camera and Machine Learning in Laser Hot-Wire Directed Energy Deposition
     year: '2024'
   KLQhwQsAAAAJ:Se3iqnhoufwC:
@@ -82,7 +82,7 @@ papers:
     title: "\u57FA\u4E8E Kriging \u4EE3\u7406\u6A21\u578B\u7684\u7EA6\u675F\u5DEE\u5206\u8FDB\u5316\u7B97\u6CD5"
     year: '2021'
   KLQhwQsAAAAJ:dhFuZR0502QC:
-    citations: 6
+    citations: 7
     title: Online thermal field prediction for metal additive manufacturing of thin walls
     year: '2023'
   KLQhwQsAAAAJ:fPk4N6BV_jEC:
@@ -144,7 +144,7 @@ papers:
   KLQhwQsAAAAJ:u_35RYKgDlwC:
     citations: 0
     title: 'In Situ Monitoring and Control of Laser-Directed Energy Deposition with Wire-Part 1: Parameter-Signature-Quality Analysis of Duplex Stainless Steel'
-    year: Unknown Year
+    year: '2025'
   KLQhwQsAAAAJ:ufrVoPGSRksC:
     citations: 8
     title: Dual-sampling based co-kriging method for design optimization problems with multi-fidelity models
