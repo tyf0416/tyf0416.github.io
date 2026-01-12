@@ -1,20 +1,24 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-12'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
-    citations: 7
+    citations: 8
     title: Real-time 2D temperature field prediction in metal additive manufacturing using physics-informed neural networks
     year: '2024'
   KLQhwQsAAAAJ:0EnyYjriUFMC:
-    citations: 17
+    citations: 18
     title: 'Multi-agent deep reinforcement learning for solving large-scale air traffic flow management problem: A time-step sequential decision approach'
     year: '2021'
   KLQhwQsAAAAJ:3s1wT3WcHBgC:
     citations: 0
     title: RePaint-Enhanced Conditional Diffusion Model for Generating Designs Under Performance Constraints
     year: '2025'
+  KLQhwQsAAAAJ:4OULZ7Gr8RgC:
+    citations: 5
+    title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 2023; 61: 103357'
+    year: '2022'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
-    citations: 86
+    citations: 87
     title: Review of transfer learning in modeling additive manufacturing processes
     year: '2022'
   KLQhwQsAAAAJ:5nxA0vEk-isC:
@@ -70,7 +74,7 @@ papers:
     title: Defining and Modeling of Height-Related Geometrical Parameters for Thin Wall Structures Manufactured by Metal Additive Manufacturing
     year: '2023'
   KLQhwQsAAAAJ:_FxGoFyzp5QC:
-    citations: 24
+    citations: 25
     title: Filter-based sequential radial basis function method for spacecraft multidisciplinary design optimization
     year: '2019'
   KLQhwQsAAAAJ:aqlVkmm33-oC:
