@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-02-04'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 8
@@ -18,7 +18,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 2023; 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
-    citations: 89
+    citations: 91
     title: Review of transfer learning in modeling additive manufacturing processes
     year: '2022'
   KLQhwQsAAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: Layer-to-Layer Thermal History Prediction for Thin Walls in Metal Additive Manufacturing
     year: '2023'
   KLQhwQsAAAAJ:LkGwnXOMwfcC:
-    citations: 54
+    citations: 55
     title: Filter-based adaptive Kriging method for black-box optimization problems with expensive objective and constraints
     year: '2019'
   KLQhwQsAAAAJ:RYcK_YlVTxYC:
@@ -42,7 +42,7 @@ papers:
     title: Low-Cost Melt Pool Temperature Prediction Using Visible Light Camera and Machine Learning in Laser Hot-Wire Directed Energy Deposition
     year: '2024'
   KLQhwQsAAAAJ:Se3iqnhoufwC:
-    citations: 19
+    citations: 20
     title: Sequential radial basis function-based optimization method using virtual sample generation
     year: '2020'
   KLQhwQsAAAAJ:SeFeTyx0c_EC:
@@ -58,7 +58,7 @@ papers:
     title: Multidisciplinary design optimization of long-range slender guided rockets considering aeroelasticity and subsidiary loads
     year: '2019'
   KLQhwQsAAAAJ:Wp0gIr-vW9MC:
-    citations: 15
+    citations: 16
     title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-quality modeling scheme
     year: '2024'
   KLQhwQsAAAAJ:YOwf2qJgpHMC:
@@ -84,7 +84,7 @@ papers:
   KLQhwQsAAAAJ:blknAaTinKkC:
     citations: 0
     title: "\u57FA\u4E8E Kriging \u4EE3\u7406\u6A21\u578B\u7684\u7EA6\u675F\u5DEE\u5206\u8FDB\u5316\u7B97\u6CD5"
-    year: '2021'
+    year: '1900'
   KLQhwQsAAAAJ:dhFuZR0502QC:
     citations: 7
     title: Online thermal field prediction for metal additive manufacturing of thin walls
@@ -94,7 +94,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:g5m5HwL7SMYC:
-    citations: 10
+    citations: 11
     title: Two-dimensional temperature field prediction with in-situ data in metal additive manufacturing using physics-informed neural networks
     year: '2025'
   KLQhwQsAAAAJ:hC7cP41nSMkC:
@@ -102,15 +102,15 @@ papers:
     title: Online Two-stage Thermal History Prediction Method for Metal Additive Manufacturing of Thin Walls
     year: '2023'
   KLQhwQsAAAAJ:hFOr9nPyWt4C:
-    citations: 23
+    citations: 26
     title: Selecting subsets of source data for transfer learning with applications in metal additive manufacturing
     year: '2024'
   KLQhwQsAAAAJ:j3f4tGmQtD8C:
-    citations: 14
+    citations: 15
     title: Physics-informed online learning for temperature prediction in metal AM
     year: '2024'
   KLQhwQsAAAAJ:kNdYIx-mwKoC:
-    citations: 7
+    citations: 8
     title: Iterative uncertainty calibration for modeling metal additive manufacturing processes using statistical moment-based metric
     year: '2023'
   KLQhwQsAAAAJ:ldfaerwXgEUC:
@@ -127,10 +127,10 @@ papers:
     year: '2025'
   KLQhwQsAAAAJ:pqnbT2bcN3wC:
     citations: 5
-    title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-quality modeling scheme
-    year: '2024'
+    title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-property modeling scheme
+    year: '2023'
   KLQhwQsAAAAJ:qxL8FJ1GzNcC:
-    citations: 3
+    citations: 4
     title: Comparison of Transfer Learning based Additive Manufacturing Models via A Case Study
     year: '2023'
   KLQhwQsAAAAJ:r0BpntZqJG4C:
