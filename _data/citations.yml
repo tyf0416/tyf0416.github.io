@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-16'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 8
@@ -18,7 +18,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 2023; 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
-    citations: 93
+    citations: 94
     title: Review of transfer learning in modeling additive manufacturing processes
     year: '2022'
   KLQhwQsAAAAJ:5nxA0vEk-isC:
@@ -58,7 +58,7 @@ papers:
     title: Aero-structure coupled optimization for high aspect ratio wings using multi-model fusion method
     year: '2019'
   KLQhwQsAAAAJ:WF5omc3nYNoC:
-    citations: 9
+    citations: 10
     title: Multidisciplinary design optimization of long-range slender guided rockets considering aeroelasticity and subsidiary loads
     year: '2019'
   KLQhwQsAAAAJ:Wp0gIr-vW9MC:
