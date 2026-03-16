@@ -7,6 +7,44 @@
 % Peer-Reviewed Journal Articles
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+@article{TANG2026114870,
+  title = {Lifelong updating of digital twin models for degraded systems using autoencoder and LSTM},
+  journal = {Applied Soft Computing},
+  volume = {193},
+  pages = {114870},
+  year = {2026},
+  issn = {1568-4946},
+  doi = {https://doi.org/10.1016/j.asoc.2026.114870},
+  url = {https://www.sciencedirect.com/science/article/pii/S1568494626003182},
+  author = {Yifan Tang and Mostafa {Rahmani Dehaghani} and G. Gary Wang},
+  keywords = {Digital twin, System degradation, Lifelong update, Battery degradation, Flight engine degradation},
+  abstract = {Digital twin (DT) has been applied for monitoring, control, and decision-making of real-world engineering systems, but how to keep a DT valid as the physical system degrades over the lifecycle remains rarely explored. Instead of identifying degradation parameters from expensive aging experiments, this paper proposes a lifelong update method to capture degradation effects directly from system responses via continuously tuning DT models. The core idea is to represent the system degradation as temporal changes of DT model configurations through degradation stages. During the lifelong update process, an autoencoder compresses DT model parameters into latent features, and an LSTM learns the temporal trend of those features to predict latent features for future degradation stages. Based on the predicted latent features, the DT model configuration is reconstructed to predict the system responses affected by degradation. The proposed lifelong update method is evaluated with two real-world engineering datasets, e.g., the battery degradation dataset from Oxford University and the flight engine degradation dataset from NASA. Results demonstrate that the proposed update method successfully captures the degradation effects on system responses during the lifecycle. The one-tailed t-tests confirm that the proposed method statistically outperforms the conventional fine-tuning method in prediction accuracy and robustness at future unseen stages.}
+}
+
+@article{dehaghani2026situ1,
+  title={In-situ Monitoring and Control of Laser-Directed Energy Deposition with Wire--Part 1: Parameter-Signature-Quality Analysis of Duplex Stainless Steel},
+  author={Dehaghani, Mostafa Rahmani and Oldknow, Kevin and Nilsen, Morgan and Mehr, Farzaneh Farhang and Tang, Yifan and Vu, Nguyen Gia Hien and Wang, Ke and Wang, Geofeng Gary},
+  journal={The International Journal of Advanced Manufacturing Technology},
+  pages={1--26},
+  year={2026},
+  doi = {https://doi.org/10.1007/s00170-026-17668-8},
+  url = {https://link.springer.com/article/10.1007/s00170-026-17668-8#citeas},
+  publisher={Springer},
+  abstract = {Laser-directed energy deposition with wire (L-DED/W) has gained attention due to its high deposition and utilization rates. However, components fabricated using this method exhibit inhomogeneous microstructure and anisotropic mechanical properties, primarily stemming from the complex thermomechanical phenomena inherent to the process. To indirectly monitor and control final qualities, such as microstructure and hardness—which cannot be directly measured during deposition—this study employs a parameter–signature–quality (PSQ) framework specifically tailored to duplex stainless steel (DSS) 2209. This paper, the first in a two-part series, systematically investigates the correlations within the PSQ framework with microstructure and hardness as the target qualities. A DSS 2209 ring is fabricated using the L-DED/W process with continuous in-situ melt pool monitoring using a coaxial camera. Advanced image processing techniques are developed and applied to extract critical melt pool signatures, including melt pool width, length, and area, from over 100,000 captured images. Post-deposition characterization involves detailed microhardness testing and microstructural analysis across 288 measurement locations, each replicated at least three times, to quantify microstructural features such as grain size, grain shape, and phase content. The results highlight significant correlations within the PSQ framework, emphasizing that melt pool signatures provide stronger and more sensitive indications of microstructural evolution compared to direct process parameters. It is established that hardness predominantly depends on phase composition (austenite content), followed by grain size, whereas laser power—despite its critical role in controlling melt pool width and thus geometry—has minimal influence on hardness and microstructure. Finite element analysis simulations further support experimental observations by analyzing how the cooling rate varies with the bead positioning and travel speed, influencing the grain size and hardness distributions. This study provides foundational understanding essential for implementing real-time monitoring and closed-loop control strategies for microstructure and hardness in DSS components produced by L-DED/W, which is discussed in Part 2 of this series. Ultimately, the insights gained advance the potential for optimized and consistent mechanical performance in metal additive manufacturing.}
+}
+
+@article{dehaghani2026situ2,
+  title={In-situ Monitoring and Control of Laser-Directed Energy Deposition with Wire--Part 2: Geometry and Hardness Modeling and Closed-Loop Control},
+  author={Dehaghani, Mostafa Rahmani and Oldknow, Kevin and Nilsen, Morgan and Mehr, Farzaneh Farhang and Tang, Yifan and Vu, Nguyen Gia Hien and Wang, Ke and Wang, G Gary},
+  journal={The International Journal of Advanced Manufacturing Technology},
+  pages={1--19},
+  year={2026},
+  publisher={Springer},
+  doi = {https://doi.org/10.1007/s00170-026-17618-4},
+  url = {https://link.springer.com/article/10.1007/s00170-026-17618-4#citeas},
+  abstract = {Laser-directed energy deposition with wire (L-DED/W) offers high deposition and material utilization rates but often suffers from geometric inaccuracies and anisotropic mechanical properties due to unstable deposition dynamics and complex thermomechanical phenomena. To enable in situ monitoring and closed-loop control of final qualities such as geometry and hardness—which cannot be directly measured during deposition—this study employs the parameter–signature–quality (PSQ) framework. This work presents the first in situ multi-input multi-output (MIMO) closed-loop control of both deposition geometry and hardness in a directed energy deposition process. Building on the experimental foundation established in Part 1 of this study, a real-time MIMO control strategy is developed for the L-DED/W process. A long-short-term-memory (LSTM) network is used to model the nonlinear and dynamic relationships between process parameters (power and speed) and melt pool signatures, while hardness is classified using a combined set of process parameters and melt pool signatures within the PSQ framework. These models are integrated with a fuzzy logic controller to achieve closed-loop MIMO control, demonstrating effective regulation of melt pool geometry while maximizing the likelihood of achieving high hardness under process uncertainties. The results demonstrate the feasibility of in situ regulation of otherwise unmeasurable final qualities and highlight fuzzy logic control as a flexible and computationally efficient approach for multi-objective control in metal additive manufacturing.}
+}
+
 @article{sajadi2025two,
   title = {Two-Dimensional Temperature Field Prediction with In-Situ Data in Metal Additive Manufacturing using Physics-Informed Neural Networks},
   journal = {Engineering Applications of Artificial Intelligence},
