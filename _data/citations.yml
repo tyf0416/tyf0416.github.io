@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-03-16'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 8
@@ -18,23 +18,27 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 2023; 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
-    citations: 89
+    citations: 94
     title: Review of transfer learning in modeling additive manufacturing processes
     year: '2022'
   KLQhwQsAAAAJ:5nxA0vEk-isC:
     citations: 3
     title: Surrogate-assisted differential evolution using knowledge-transfer-based sampling for expensive optimization problems
     year: '2022'
+  KLQhwQsAAAAJ:D03iK_w7-QYC:
+    citations: 0
+    title: Adaptation and Fine-tuning with TabPFN for Travelling Salesman Problem
+    year: '2025'
   KLQhwQsAAAAJ:J_g5lzvAfSwC:
     citations: 0
     title: An Online Sequential Update Method for Reduced-Order-Model-Based Digital Twin
     year: '2024'
   KLQhwQsAAAAJ:L8Ckcad2t8MC:
     citations: 2
-    title: Layer-to-Layer Thermal History Prediction for Thin Walls in Metal Additive Manufacturing
+    title: Layer-to-layer thermal history prediction for thin walls in metal additive manufacturing
     year: '2023'
   KLQhwQsAAAAJ:LkGwnXOMwfcC:
-    citations: 54
+    citations: 55
     title: Filter-based adaptive Kriging method for black-box optimization problems with expensive objective and constraints
     year: '2019'
   KLQhwQsAAAAJ:RYcK_YlVTxYC:
@@ -42,7 +46,7 @@ papers:
     title: Low-Cost Melt Pool Temperature Prediction Using Visible Light Camera and Machine Learning in Laser Hot-Wire Directed Energy Deposition
     year: '2024'
   KLQhwQsAAAAJ:Se3iqnhoufwC:
-    citations: 19
+    citations: 20
     title: Sequential radial basis function-based optimization method using virtual sample generation
     year: '2020'
   KLQhwQsAAAAJ:SeFeTyx0c_EC:
@@ -54,11 +58,11 @@ papers:
     title: Aero-structure coupled optimization for high aspect ratio wings using multi-model fusion method
     year: '2019'
   KLQhwQsAAAAJ:WF5omc3nYNoC:
-    citations: 9
+    citations: 10
     title: Multidisciplinary design optimization of long-range slender guided rockets considering aeroelasticity and subsidiary loads
     year: '2019'
   KLQhwQsAAAAJ:Wp0gIr-vW9MC:
-    citations: 15
+    citations: 20
     title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-quality modeling scheme
     year: '2024'
   KLQhwQsAAAAJ:YOwf2qJgpHMC:
@@ -74,17 +78,29 @@ papers:
     title: Defining and Modeling of Height-Related Geometrical Parameters for Thin Wall Structures Manufactured by Metal Additive Manufacturing
     year: '2023'
   KLQhwQsAAAAJ:_FxGoFyzp5QC:
-    citations: 25
+    citations: 24
     title: Filter-based sequential radial basis function method for spacecraft multidisciplinary design optimization
     year: '2019'
+  KLQhwQsAAAAJ:a0OBvERweLwC:
+    citations: 0
+    title: TabPFN for Zero-shot Parametric Engineering Design Generation
+    year: '2026'
   KLQhwQsAAAAJ:aqlVkmm33-oC:
-    citations: 9
+    citations: 11
     title: Modeling and optimization of height-related geometrical parameters for thin wall structures manufactured by metal additive manufacturing
     year: '2023'
   KLQhwQsAAAAJ:blknAaTinKkC:
     citations: 0
     title: "\u57FA\u4E8E Kriging \u4EE3\u7406\u6A21\u578B\u7684\u7EA6\u675F\u5DEE\u5206\u8FDB\u5316\u7B97\u6CD5"
     year: '2021'
+  KLQhwQsAAAAJ:cFHS6HbyZ2cC:
+    citations: 0
+    title: Hybrid Metaheuristic Vehicle Routing Problem for Security Dispatch Operations
+    year: '2025'
+  KLQhwQsAAAAJ:dfsIfKJdRG4C:
+    citations: 0
+    title: Adaptation and Fine-tuning with TabPFN for Travelling Salesman Problem
+    year: '2025'
   KLQhwQsAAAAJ:dhFuZR0502QC:
     citations: 7
     title: Online thermal field prediction for metal additive manufacturing of thin walls
@@ -94,7 +110,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:g5m5HwL7SMYC:
-    citations: 10
+    citations: 13
     title: Two-dimensional temperature field prediction with in-situ data in metal additive manufacturing using physics-informed neural networks
     year: '2025'
   KLQhwQsAAAAJ:hC7cP41nSMkC:
@@ -102,19 +118,19 @@ papers:
     title: Online Two-stage Thermal History Prediction Method for Metal Additive Manufacturing of Thin Walls
     year: '2023'
   KLQhwQsAAAAJ:hFOr9nPyWt4C:
-    citations: 23
+    citations: 26
     title: Selecting subsets of source data for transfer learning with applications in metal additive manufacturing
     year: '2024'
   KLQhwQsAAAAJ:j3f4tGmQtD8C:
-    citations: 14
+    citations: 16
     title: Physics-informed online learning for temperature prediction in metal AM
     year: '2024'
   KLQhwQsAAAAJ:kNdYIx-mwKoC:
-    citations: 7
+    citations: 8
     title: Iterative uncertainty calibration for modeling metal additive manufacturing processes using statistical moment-based metric
     year: '2023'
   KLQhwQsAAAAJ:ldfaerwXgEUC:
-    citations: 1
+    citations: 2
     title: Capturing Lifecycle System Degradation in Digital Twin Model Updating
     year: '2025'
   KLQhwQsAAAAJ:mB3voiENLucC:
@@ -126,11 +142,15 @@ papers:
     title: MIMO system identification and uncertainty calibration with a limited amount of data using transfer learning
     year: '2025'
   KLQhwQsAAAAJ:pqnbT2bcN3wC:
-    citations: 5
-    title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-quality modeling scheme
-    year: '2024'
+    citations: 7
+    title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-property modeling scheme
+    year: '2023'
+  KLQhwQsAAAAJ:pyW8ca7W8N0C:
+    citations: 0
+    title: Lifelong Updating of Digital Twin Models for Degraded Systems Using Autoencoder and LSTM
+    year: '2026'
   KLQhwQsAAAAJ:qxL8FJ1GzNcC:
-    citations: 3
+    citations: 4
     title: Comparison of Transfer Learning based Additive Manufacturing Models via A Case Study
     year: '2023'
   KLQhwQsAAAAJ:r0BpntZqJG4C:
@@ -142,18 +162,22 @@ papers:
     title: Hybrid Metaheuristic Vehicle Routing Problem for Security Dispatch Operations
     year: '2025'
   KLQhwQsAAAAJ:roLk4NBRz8UC:
-    citations: 12
+    citations: 13
     title: Efficient aero-structure coupled wing optimization using decomposition and adaptive metamodeling techniques
     year: '2019'
   KLQhwQsAAAAJ:u_35RYKgDlwC:
     citations: 0
-    title: 'In Situ Monitoring and Control of Laser-Directed Energy Deposition with Wire-Part 1: Parameter-Signature-Quality Analysis of Duplex Stainless Steel'
-    year: '2025'
+    title: "In-situ monitoring and control of laser-directed energy deposition with wire\u2013part 1: parameter-signature-quality analysis of duplex stainless steel"
+    year: '2026'
   KLQhwQsAAAAJ:ufrVoPGSRksC:
-    citations: 8
+    citations: 7
     title: Dual-sampling based co-kriging method for design optimization problems with multi-fidelity models
     year: '2018'
+  KLQhwQsAAAAJ:yD5IFk8b50cC:
+    citations: 0
+    title: RePaint-Enhanced Conditional Diffusion Model for Parametric Engineering Designs under Performance and Parameter Constraints
+    year: '2026'
   KLQhwQsAAAAJ:zA6iFVUQeVQC:
     citations: 0
-    title: "In Situ Monitoring and Control of Laser-Directed Energy Deposition with Wire\u2013Part 2: Geometry and Hardness Modeling and Closed-Loop Control"
-    year: '2025'
+    title: "In situ monitoring and control of laser-directed energy deposition with wire\u2013part 2: geometry and hardness modeling and closed-loop control"
+    year: '2026'
