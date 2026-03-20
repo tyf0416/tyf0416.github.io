@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-20'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 8
@@ -110,7 +110,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:g5m5HwL7SMYC:
-    citations: 13
+    citations: 14
     title: Two-dimensional temperature field prediction with in-situ data in metal additive manufacturing using physics-informed neural networks
     year: '2025'
   KLQhwQsAAAAJ:hC7cP41nSMkC:
@@ -166,7 +166,7 @@ papers:
     title: Efficient aero-structure coupled wing optimization using decomposition and adaptive metamodeling techniques
     year: '2019'
   KLQhwQsAAAAJ:u_35RYKgDlwC:
-    citations: 0
+    citations: 1
     title: "In-situ monitoring and control of laser-directed energy deposition with wire\u2013part 1: parameter-signature-quality analysis of duplex stainless steel"
     year: '2026'
   KLQhwQsAAAAJ:ufrVoPGSRksC:
