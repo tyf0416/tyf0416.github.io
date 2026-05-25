@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-25'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
-    citations: 10
+    citations: 9
     title: Real-time 2D temperature field prediction in metal additive manufacturing using physics-informed neural networks
     year: '2024'
   KLQhwQsAAAAJ:0EnyYjriUFMC:
@@ -14,7 +14,7 @@ papers:
     title: RePaint-Enhanced Conditional Diffusion Model for Generating Designs Under Performance Constraints
     year: '2025'
   KLQhwQsAAAAJ:4OULZ7Gr8RgC:
-    citations: 5
+    citations: 6
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 2023; 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
@@ -118,11 +118,11 @@ papers:
     title: Online Two-stage Thermal History Prediction Method for Metal Additive Manufacturing of Thin Walls
     year: '2023'
   KLQhwQsAAAAJ:hFOr9nPyWt4C:
-    citations: 29
+    citations: 30
     title: Selecting subsets of source data for transfer learning with applications in metal additive manufacturing
     year: '2024'
   KLQhwQsAAAAJ:j3f4tGmQtD8C:
-    citations: 22
+    citations: 23
     title: Physics-informed online learning for temperature prediction in metal AM
     year: '2024'
   KLQhwQsAAAAJ:kNdYIx-mwKoC:
@@ -130,7 +130,7 @@ papers:
     title: Iterative uncertainty calibration for modeling metal additive manufacturing processes using statistical moment-based metric
     year: '2023'
   KLQhwQsAAAAJ:ldfaerwXgEUC:
-    citations: 3
+    citations: 4
     title: Capturing Lifecycle System Degradation in Digital Twin Model Updating
     year: '2025'
   KLQhwQsAAAAJ:mB3voiENLucC:
@@ -150,7 +150,7 @@ papers:
     title: Lifelong Updating of Digital Twin Models for Degraded Systems Using Autoencoder and LSTM
     year: '2026'
   KLQhwQsAAAAJ:qxL8FJ1GzNcC:
-    citations: 4
+    citations: 5
     title: Comparison of Transfer Learning based Additive Manufacturing Models via A Case Study
     year: '2023'
   KLQhwQsAAAAJ:r0BpntZqJG4C:
