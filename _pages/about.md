@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Currently, I am a Postdoctoral Research Fellow in the School of Mechatronic Systems Engineering at Simon Fraser University, where I also completed my PhD under the supervision of [Prof. Gary Wang](https://www.sfu.ca/~gwa5/index.html). I received my Bachelor’s and Master’s degrees from the School of Aerospace at Beijing Institute of Technology, supervised by [Prof. Teng Long](https://scholar.google.com/citations?user=uvgJaUoAAAAJ&hl=en).
+Currently, I am a Research Scientist in the Remanufacturing Process Technology Group at ARTC and SIMTech, A*STAR Singapore. Before that, I was a Postdoctoral Research Fellow in the School of Mechatronic Systems Engineering at Simon Fraser University, where I also completed my PhD under the supervision of [Prof. Gary Wang](https://www.sfu.ca/~gwa5/index.html). I received my Bachelor’s and Master’s degrees from the School of Aerospace at Beijing Institute of Technology, supervised by [Prof. Teng Long](https://scholar.google.com/citations?user=uvgJaUoAAAAJ&hl=en).
 
 My research focuses on **AI for Complex Engineering System**, **Engineering AI** and **Industry AI**, aiming to improve their performance, sustainability, and robustness. The goal is to develop generalizable, computationally efficient, and physics-informed methods for intelligent decision making across whole system lifecylces, with following detailed research interests.
 
