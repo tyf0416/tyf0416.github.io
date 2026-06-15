@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-15'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
-    citations: 9
+    citations: 10
     title: Real-time 2D temperature field prediction in metal additive manufacturing using physics-informed neural networks
     year: '2024'
   KLQhwQsAAAAJ:0EnyYjriUFMC:
@@ -18,7 +18,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 2023; 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
-    citations: 104
+    citations: 111
     title: Review of transfer learning in modeling additive manufacturing processes
     year: '2022'
   KLQhwQsAAAAJ:5nxA0vEk-isC:
@@ -58,11 +58,11 @@ papers:
     title: Aero-structure coupled optimization for high aspect ratio wings using multi-model fusion method
     year: '2019'
   KLQhwQsAAAAJ:WF5omc3nYNoC:
-    citations: 11
+    citations: 12
     title: Multidisciplinary design optimization of long-range slender guided rockets considering aeroelasticity and subsidiary loads
     year: '2019'
   KLQhwQsAAAAJ:Wp0gIr-vW9MC:
-    citations: 22
+    citations: 23
     title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-quality modeling scheme
     year: '2024'
   KLQhwQsAAAAJ:YOwf2qJgpHMC:
@@ -92,7 +92,7 @@ papers:
   KLQhwQsAAAAJ:blknAaTinKkC:
     citations: 0
     title: "\u57FA\u4E8E Kriging \u4EE3\u7406\u6A21\u578B\u7684\u7EA6\u675F\u5DEE\u5206\u8FDB\u5316\u7B97\u6CD5"
-    year: '2021'
+    year: '1900'
   KLQhwQsAAAAJ:cFHS6HbyZ2cC:
     citations: 0
     title: Hybrid Metaheuristic Vehicle Routing Problem for Security Dispatch Operations
@@ -102,15 +102,15 @@ papers:
     title: Adaptation and Fine-tuning with TabPFN for Travelling Salesman Problem
     year: '2025'
   KLQhwQsAAAAJ:dhFuZR0502QC:
-    citations: 7
+    citations: 8
     title: Online thermal field prediction for metal additive manufacturing of thin walls
     year: '2023'
   KLQhwQsAAAAJ:fPk4N6BV_jEC:
-    citations: 6
+    citations: 7
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:g5m5HwL7SMYC:
-    citations: 19
+    citations: 22
     title: Two-dimensional temperature field prediction with in-situ data in metal additive manufacturing using physics-informed neural networks
     year: '2025'
   KLQhwQsAAAAJ:hC7cP41nSMkC:
@@ -118,15 +118,15 @@ papers:
     title: Online Two-stage Thermal History Prediction Method for Metal Additive Manufacturing of Thin Walls
     year: '2023'
   KLQhwQsAAAAJ:hFOr9nPyWt4C:
-    citations: 30
+    citations: 32
     title: Selecting subsets of source data for transfer learning with applications in metal additive manufacturing
     year: '2024'
   KLQhwQsAAAAJ:j3f4tGmQtD8C:
-    citations: 23
+    citations: 24
     title: Physics-informed online learning for temperature prediction in metal AM
     year: '2024'
   KLQhwQsAAAAJ:kNdYIx-mwKoC:
-    citations: 8
+    citations: 9
     title: Iterative uncertainty calibration for modeling metal additive manufacturing processes using statistical moment-based metric
     year: '2023'
   KLQhwQsAAAAJ:ldfaerwXgEUC:
