@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-17'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
-    citations: 10
+    citations: 11
     title: Real-time 2D temperature field prediction in metal additive manufacturing using physics-informed neural networks
     year: '2024'
   KLQhwQsAAAAJ:0EnyYjriUFMC:
@@ -92,7 +92,7 @@ papers:
   KLQhwQsAAAAJ:blknAaTinKkC:
     citations: 0
     title: "\u57FA\u4E8E Kriging \u4EE3\u7406\u6A21\u578B\u7684\u7EA6\u675F\u5DEE\u5206\u8FDB\u5316\u7B97\u6CD5"
-    year: '1900'
+    year: '2021'
   KLQhwQsAAAAJ:cFHS6HbyZ2cC:
     citations: 0
     title: Hybrid Metaheuristic Vehicle Routing Problem for Security Dispatch Operations
@@ -122,7 +122,7 @@ papers:
     title: Selecting subsets of source data for transfer learning with applications in metal additive manufacturing
     year: '2024'
   KLQhwQsAAAAJ:j3f4tGmQtD8C:
-    citations: 24
+    citations: 25
     title: Physics-informed online learning for temperature prediction in metal AM
     year: '2024'
   KLQhwQsAAAAJ:kNdYIx-mwKoC:
