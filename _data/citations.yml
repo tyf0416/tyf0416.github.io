@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-06'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -102,7 +102,7 @@ papers:
     title: Hybrid Metaheuristic Vehicle Routing Problem for Security Dispatch Operations
     year: '2025'
   KLQhwQsAAAAJ:dfsIfKJdRG4C:
-    citations: 0
+    citations: 1
     title: Adaptation and Fine-tuning with TabPFN for Travelling Salesman Problem
     year: '2025'
   KLQhwQsAAAAJ:dhFuZR0502QC:
@@ -126,7 +126,7 @@ papers:
     title: Selecting subsets of source data for transfer learning with applications in metal additive manufacturing
     year: '2024'
   KLQhwQsAAAAJ:j3f4tGmQtD8C:
-    citations: 27
+    citations: 28
     title: Physics-informed online learning for temperature prediction in metal AM
     year: '2024'
   KLQhwQsAAAAJ:kNdYIx-mwKoC:
@@ -134,7 +134,7 @@ papers:
     title: Iterative uncertainty calibration for modeling metal additive manufacturing processes using statistical moment-based metric
     year: '2023'
   KLQhwQsAAAAJ:ldfaerwXgEUC:
-    citations: 5
+    citations: 6
     title: Capturing Lifecycle System Degradation in Digital Twin Model Updating
     year: '2025'
   KLQhwQsAAAAJ:mB3voiENLucC:
@@ -151,7 +151,7 @@ papers:
     year: '2023'
   KLQhwQsAAAAJ:pyW8ca7W8N0C:
     citations: 0
-    title: Lifelong Updating of Digital Twin Models for Degraded Systems Using Autoencoder and LSTM
+    title: Lifelong updating of digital twin models for degraded systems using autoencoder and LSTM
     year: '2026'
   KLQhwQsAAAAJ:qxL8FJ1GzNcC:
     citations: 5
