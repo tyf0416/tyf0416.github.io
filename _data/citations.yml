@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-13'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -66,11 +66,11 @@ papers:
     title: Multidisciplinary design optimization of long-range slender guided rockets considering aeroelasticity and subsidiary loads
     year: '2019'
   KLQhwQsAAAAJ:Wp0gIr-vW9MC:
-    citations: 23
+    citations: 24
     title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-quality modeling scheme
     year: '2024'
   KLQhwQsAAAAJ:YOwf2qJgpHMC:
-    citations: 1
+    citations: 2
     title: Review of transfer learning in additive manufacturing modeling
     year: '2022'
   KLQhwQsAAAAJ:ZHo1McVdvXMC:
@@ -93,6 +93,10 @@ papers:
     citations: 11
     title: Modeling and optimization of height-related geometrical parameters for thin wall structures manufactured by metal additive manufacturing
     year: '2023'
+  KLQhwQsAAAAJ:b0M2c_1WBrUC:
+    citations: 0
+    title: Solving large-scale highly constrained vehicle routing problems for security dispatch operations
+    year: '2026'
   KLQhwQsAAAAJ:blknAaTinKkC:
     citations: 0
     title: "\u57FA\u4E8E Kriging \u4EE3\u7406\u6A21\u578B\u7684\u7EA6\u675F\u5DEE\u5206\u8FDB\u5316\u7B97\u6CD5"
