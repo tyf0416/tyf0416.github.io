@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-31'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -14,11 +14,11 @@ papers:
     title: RePaint-Enhanced Conditional Diffusion Model for Generating Designs Under Performance Constraints
     year: '2025'
   KLQhwQsAAAAJ:4OULZ7Gr8RgC:
-    citations: 6
+    citations: 5
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 2023; 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
-    citations: 113
+    citations: 112
     title: Review of transfer learning in modeling additive manufacturing processes
     year: '2022'
   KLQhwQsAAAAJ:5nxA0vEk-isC:
@@ -42,7 +42,7 @@ papers:
     title: Layer-to-layer thermal history prediction for thin walls in metal additive manufacturing
     year: '2023'
   KLQhwQsAAAAJ:LkGwnXOMwfcC:
-    citations: 56
+    citations: 57
     title: Filter-based adaptive Kriging method for black-box optimization problems with expensive objective and constraints
     year: '2019'
   KLQhwQsAAAAJ:RYcK_YlVTxYC:
@@ -62,19 +62,19 @@ papers:
     title: Aero-structure coupled optimization for high aspect ratio wings using multi-model fusion method
     year: '2019'
   KLQhwQsAAAAJ:WF5omc3nYNoC:
-    citations: 12
+    citations: 11
     title: Multidisciplinary design optimization of long-range slender guided rockets considering aeroelasticity and subsidiary loads
     year: '2019'
   KLQhwQsAAAAJ:Wp0gIr-vW9MC:
     citations: 24
-    title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-quality modeling scheme
-    year: '2024'
+    title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-property modeling scheme
+    year: '2023'
   KLQhwQsAAAAJ:YOwf2qJgpHMC:
     citations: 2
     title: Review of transfer learning in additive manufacturing modeling
     year: '2022'
   KLQhwQsAAAAJ:ZHo1McVdvXMC:
-    citations: 0
+    citations: 1
     title: A Digital Twin Model Updating Method to Capture Lifecycle System Degradation
     year: '2025'
   KLQhwQsAAAAJ:ZeXyd9-uunAC:
@@ -118,7 +118,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:g5m5HwL7SMYC:
-    citations: 23
+    citations: 24
     title: Two-dimensional temperature field prediction with in-situ data in metal additive manufacturing using physics-informed neural networks
     year: '2025'
   KLQhwQsAAAAJ:hC7cP41nSMkC:
@@ -126,7 +126,7 @@ papers:
     title: Online Two-stage Thermal History Prediction Method for Metal Additive Manufacturing of Thin Walls
     year: '2023'
   KLQhwQsAAAAJ:hFOr9nPyWt4C:
-    citations: 33
+    citations: 32
     title: Selecting subsets of source data for transfer learning with applications in metal additive manufacturing
     year: '2024'
   KLQhwQsAAAAJ:j3f4tGmQtD8C:
@@ -150,15 +150,15 @@ papers:
     title: MIMO system identification and uncertainty calibration with a limited amount of data using transfer learning
     year: '2025'
   KLQhwQsAAAAJ:pqnbT2bcN3wC:
-    citations: 7
+    citations: 6
     title: System identification and closed-loop control of laser hot-wire directed energy deposition using the parameter-signature-property modeling scheme
     year: '2023'
   KLQhwQsAAAAJ:pyW8ca7W8N0C:
-    citations: 0
+    citations: 1
     title: Lifelong updating of digital twin models for degraded systems using autoencoder and LSTM
     year: '2026'
   KLQhwQsAAAAJ:qxL8FJ1GzNcC:
-    citations: 5
+    citations: 4
     title: Comparison of Transfer Learning based Additive Manufacturing Models via A Case Study
     year: '2023'
   KLQhwQsAAAAJ:r0BpntZqJG4C:
@@ -187,5 +187,5 @@ papers:
     year: '2026'
   KLQhwQsAAAAJ:zA6iFVUQeVQC:
     citations: 0
-    title: "In situ monitoring and control of laser-directed energy deposition with wire\u2013part 2: geometry and hardness modeling and closed-loop control"
-    year: '2026'
+    title: "In Situ Monitoring and Control of Laser-Directed Energy Deposition with Wire\u2013Part 2: Geometry and Hardness Modeling and Closed-Loop Control"
+    year: '2025'
