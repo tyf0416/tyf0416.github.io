@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-19'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
-    citations: 11
+    citations: 12
     title: Real-time 2D temperature field prediction in metal additive manufacturing using physics-informed neural networks
     year: '2024'
   KLQhwQsAAAAJ:0EnyYjriUFMC:
@@ -18,7 +18,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 2023; 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
-    citations: 113
+    citations: 114
     title: Review of transfer learning in modeling additive manufacturing processes
     year: '2022'
   KLQhwQsAAAAJ:5nxA0vEk-isC:
@@ -122,7 +122,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 61: 103357'
     year: '2023'
   KLQhwQsAAAAJ:g5m5HwL7SMYC:
-    citations: 25
+    citations: 26
     title: Two-dimensional temperature field prediction with in-situ data in metal additive manufacturing using physics-informed neural networks
     year: '2025'
   KLQhwQsAAAAJ:hC7cP41nSMkC:
