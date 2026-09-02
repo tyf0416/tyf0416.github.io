@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-09-02'
 papers:
   KLQhwQsAAAAJ:-f6ydRqryjwC:
     citations: 12
@@ -18,7 +18,7 @@ papers:
     title: 'Review of transfer learning in modeling additive manufacturing processes. Addit Manuf 2023; 61: 103357'
     year: '2022'
   KLQhwQsAAAAJ:4TOpqqG69KYC:
-    citations: 114
+    citations: 115
     title: Review of transfer learning in modeling additive manufacturing processes
     year: '2022'
   KLQhwQsAAAAJ:5nxA0vEk-isC:
@@ -66,7 +66,7 @@ papers:
     title: Aero-structure coupled optimization for high aspect ratio wings using multi-model fusion method
     year: '2019'
   KLQhwQsAAAAJ:WF5omc3nYNoC:
-    citations: 11
+    citations: 12
     title: Multidisciplinary design optimization of long-range slender guided rockets considering aeroelasticity and subsidiary loads
     year: '2019'
   KLQhwQsAAAAJ:Wp0gIr-vW9MC:
@@ -134,7 +134,7 @@ papers:
     title: Selecting subsets of source data for transfer learning with applications in metal additive manufacturing
     year: '2024'
   KLQhwQsAAAAJ:j3f4tGmQtD8C:
-    citations: 32
+    citations: 33
     title: Physics-informed online learning for temperature prediction in metal AM
     year: '2024'
   KLQhwQsAAAAJ:kNdYIx-mwKoC:
@@ -150,7 +150,7 @@ papers:
     title: Real-Time Two-Dimensional Temperature Field Prediction in Metal Additive Manufacturing Using Physics-Informed Neural Networks
     year: '2024'
   KLQhwQsAAAAJ:ns9cj8rnVeAC:
-    citations: 5
+    citations: 6
     title: MIMO system identification and uncertainty calibration with a limited amount of data using transfer learning
     year: '2025'
   KLQhwQsAAAAJ:pqnbT2bcN3wC:
@@ -166,7 +166,7 @@ papers:
     title: Comparison of Transfer Learning based Additive Manufacturing Models via A Case Study
     year: '2023'
   KLQhwQsAAAAJ:r0BpntZqJG4C:
-    citations: 7
+    citations: 8
     title: A systematic online update method for reduced-order-model-based digital twin
     year: '2025'
   KLQhwQsAAAAJ:rO6llkc54NcC:
@@ -174,7 +174,7 @@ papers:
     title: Hybrid Metaheuristic Vehicle Routing Problem for Security Dispatch Operations
     year: '2025'
   KLQhwQsAAAAJ:roLk4NBRz8UC:
-    citations: 15
+    citations: 16
     title: Efficient aero-structure coupled wing optimization using decomposition and adaptive metamodeling techniques
     year: '2019'
   KLQhwQsAAAAJ:u_35RYKgDlwC:
